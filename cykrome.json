@@ -4,5 +4,6 @@
   "description": "Capture a screenshot with a hotkey, give it a background, annotate and redact it, then export.",
   "type": "application",
   "icon": "app-icon.png",
+  "website": "https://matte.cykrome.com",
   "identifier": "com.cykrome.matte"
 }
