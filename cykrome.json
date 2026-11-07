@@ -1,0 +1,8 @@
+{
+  "slug": "matte",
+  "name": "Matte",
+  "description": "Capture a screenshot with a hotkey, give it a background, annotate and redact it, then export.",
+  "type": "application",
+  "icon": "app-icon.png",
+  "identifier": "com.cykrome.matte"
+}
